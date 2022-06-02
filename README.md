@@ -12,6 +12,7 @@ GRUPO 1 AULA 9 COHORTE 2022
 - Ivan Didier Meier
 - Romina Alicia Nievas Jofre
 - Gabriel Medina
+- Antonela Montagna
 (Por fa, vayan agregándose)
 
 
