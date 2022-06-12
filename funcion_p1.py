@@ -3,7 +3,7 @@
 
 val1=int(input("Por favor, ingrese el primer número que desea sumar: "))
 val2=int(input("Por favor, ingrese el segundo número que desea sumar: "))
-val3=int(input("Por favor, ingrese el tercer número que desea sumar: "))
+val3=int(input("Por favor, ingrese el tercer número que desea sumar a los dos anteriores: "))
 
 
 
