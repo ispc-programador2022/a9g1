@@ -13,6 +13,7 @@ GRUPO 1 AULA 9 COHORTE 2022
 - Romina Alicia Nievas Jofre
 - Gabriel Medina
 - Antonela Montagna
+- Nabia Mariela
 (Por fa, vayan agregándose)
 
 
