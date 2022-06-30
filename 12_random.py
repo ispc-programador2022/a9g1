@@ -9,12 +9,7 @@ def genrnd ():
 
 print(genrnd())
 
-conteo = len(genrnd()) 
+conteo = len(genrnd())
+
 
 print(conteo)
-
-def suma_total(variable_lista):
-    return sum(variable_lista)
-
-
-print(suma_total(genrnd()))
